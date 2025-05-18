@@ -17,7 +17,7 @@ This project demonstrates the analysis of employee data using Microsoft Power BI
 
 ## Dashboard
 
-[Employee POWER BI Analysis.pdf](https://github.com/user-attachments/files/20271662/Employee.POWER.BI.Analysis.pdf)
+![Employee POWER BI Analysis-1](https://github.com/user-attachments/assets/e1eb816e-4a1c-4158-94fb-fea9dfe7713a)
 
 
 ## Getting Started
