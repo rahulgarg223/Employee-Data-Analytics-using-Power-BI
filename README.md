@@ -15,6 +15,11 @@ This project demonstrates the analysis of employee data using Microsoft Power BI
 - Department-wise analysis
 - Employee demographics insights
 
+## Dashboard
+
+[Employee POWER BI Analysis.pdf](https://github.com/user-attachments/files/20271662/Employee.POWER.BI.Analysis.pdf)
+
+
 ## Getting Started
 
 ### Prerequisites
